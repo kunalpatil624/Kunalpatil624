@@ -1,20 +1,20 @@
-<!-- Profile README for GitHub -->
-<h1 align="center">Hi 👋, I'm Kunnu Patil</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer (MERN) from India</h3>
+<h1 align="center">Hi 👋, I'm Kunal Patil</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Lover;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=440&height=45&color=00FF99&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Expert;JavaScript+Enthusiast;Open+Source+Contributor;Code.+Build.+Repeat.&center=true&width=440&height=45&color=00FF99&vCenter=true&size=22" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🌱 I’m currently sharpening my skills in **Backend APIs & DevOps**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/yourusername)
-- 🧠 I’m learning **Next.js**, **TypeScript**, and **System Design**
-- 💬 Ask me about **MERN Stack, JavaScript, Java, HTML/CSS, Bootstrap**
-- ⚡ Fun fact: I write clean code and drink way too much chai ☕
+- 🔭 I’m currently working on **MERN Projects & Backend APIs**
+- 🌱 I’m learning **DevOps, System Design & Next.js**
+- 👨‍💻 All my projects are available at: [My GitHub Repos](https://github.com/kunalpatil624)
+- 💬 Ask me about **JavaScript, MERN Stack, Java, Bootstrap**
+- 📫 Reach me at **patilkunnu624@gmail.com**
+- ⚡ Fun fact: I love clean UI and meaningful code ✨
 
 ---
 
@@ -37,12 +37,12 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalpatil624&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpatil624&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpatil624&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -50,17 +50,17 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/kunal-patil-504a752a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-patil-504a752a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:patilkunnu624@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://lnkd.in/gAjZzUgU" target="_blank">
+  <a href="https://github.com/kunalpatil624" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">💻 Building the future, one line of code at a time!</p>
+<p align="center"><b>💻 Code | 🌐 Deploy | 🚀 Repeat</b></p>
