@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Patil</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
 
-<!-- 🟢 Profile Views Badge (top right corner) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+
 
 <!-- Typing Animation -->
 <p align="center">
@@ -13,7 +10,10 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 - 🔭 I’m currently working on **MERN Projects & Backend APIs**
 - 🌱 I’m learning **DevOps, System Design & Next.js**
