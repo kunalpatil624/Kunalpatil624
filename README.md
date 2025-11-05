@@ -8,10 +8,8 @@
 
 ---
 
-### 👨‍💻 About Me 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" align="right" />
+
 
 - 🔭 I’m currently working on **MERN Projects & Backend APIs**
 - 🌱 I’m learning **DevOps, System Design & Next.js**
