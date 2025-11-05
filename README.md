@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kunal Patil</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
-
+<img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter"/>
 <p align="center">
   <a href="https://drive.google.com/file/d/1ASghFku1QAdVAbshy-dC_WQzoc2cl8OV/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 View_Resume-00C853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter"/>
+  </a> 
 </p>
 
 <p align="center">
