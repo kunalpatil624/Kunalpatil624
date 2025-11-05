@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Patil</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
 
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Expert;JavaScript+Enthusiast;Open+Source+Contributor;Code.+Build.+Repeat.&center=true&width=440&height=45&color=00FF99&vCenter=true&size=22" />
@@ -11,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me 
-<p align="">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=kunalpatil624&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -56,7 +54,7 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kunal-patil-504a752a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -65,6 +63,9 @@
   </a>
   <a href="https://github.com/kunalpatil624" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
