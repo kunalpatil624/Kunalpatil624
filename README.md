@@ -110,9 +110,9 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/kunalpatil624" target="_blank" style="margin-left:15px;">
-    <img src="https://img.icons8.com/glyph-neue/64/github.png" width="45px"/>
-  </a>
+<a href="https://github.com/kunalpatil624" target="_blank" style="margin-left:15px;">
+  <img src="https://img.icons8.com/ios-glyphs/60/9c9c9c/github.png" width="45px"/>
+</a>
 
   <!-- X (Twitter) -->
   <a href="https://x.com/kunnu_patil_1" target="_blank" style="margin-left:15px;">
