@@ -32,7 +32,8 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR1ZDJqdDJibTd3Z3JoMHliMW02ZmtzbjRycnhpM2FoMGxmZ3A2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 
 </td>
 
