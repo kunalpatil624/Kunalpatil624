@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+  <img src="https://img.icons8.com/ios-glyphs/60/9c9c9c/github.png" width="50px" />
 
 </p>
 
