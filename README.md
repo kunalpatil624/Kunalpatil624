@@ -32,7 +32,8 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="300" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR1ZDJqdDJibTd3Z3JoMHliMW02ZmtzbjRycnhpM2FoMGxmZ3A2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+
 </td>
 
 </tr>
@@ -102,21 +103,32 @@
 ### 📫 Connect with Me
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kunal-patil-504a752a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" />
   </a>
-  <a href="mailto:patilkunnu624@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/kunalpatil624" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" style="margin-left:20px;" />
   </a>
-  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
+  <!-- X (Twitter) -->
   <a href="https://x.com/kunnu_patil_1" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="45px" style="margin-left:20px;" />
   </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="45px" style="margin-left:20px;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:patilkunnu624@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="45px" style="margin-left:20px;" />
+  </a>
+
 </p>
 
 ---
