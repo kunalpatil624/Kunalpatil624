@@ -110,23 +110,23 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/kunalpatil624" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" style="margin-left:20px;" />
+  <a href="https://github.com/kunalpatil624" target="_blank" style="margin-left:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/kunnu_patil_1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="45px" style="margin-left:20px;" />
+  <a href="https://x.com/kunnu_patil_1" target="_blank" style="margin-left:20px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45px" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="45px" style="margin-left:20px;" />
+  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank" style="margin-left:20px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45px" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:patilkunnu624@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="45px" style="margin-left:20px;" />
+  <a href="mailto:patilkunnu624@gmail.com" target="_blank" style="margin-left:20px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="45px" />
   </a>
 
 </p>
