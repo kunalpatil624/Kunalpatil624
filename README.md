@@ -32,7 +32,8 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer/Developer1.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR1ZDJqdDJibTd3Z3JoMHliMW02ZmtzbjRycnhpM2FoMGxmZ3A2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+
 </td>
 
 </tr>
@@ -40,8 +41,6 @@
 
 ---
 
-
-### 🛠️ Languages & Tools
 
 ### 🛠️ Languages & Tools
 
