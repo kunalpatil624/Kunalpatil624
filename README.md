@@ -106,30 +106,31 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kunal-patil-504a752a0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45px"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/kunalpatil624" target="_blank" style="margin-left:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+  <a href="https://github.com/kunalpatil624" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/glyph-neue/64/github.png" width="45px"/>
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/kunnu_patil_1" target="_blank" style="margin-left:20px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45px" />
+  <a href="https://x.com/kunnu_patil_1" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="45px"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank" style="margin-left:20px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45px" />
+  <a href="https://www.instagram.com/kunnu_patil_1/" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45px"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:patilkunnu624@gmail.com" target="_blank" style="margin-left:20px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="45px" />
+  <a href="mailto:patilkunnu624@gmail.com" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45px"/>
   </a>
 
 </p>
+
 
 ---
 
