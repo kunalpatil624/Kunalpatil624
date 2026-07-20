@@ -93,11 +93,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalpatil624&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=kunalpatil624&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpatil624&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalpatil624&show_icons=true&theme=radical" height="180em"/>
+  
+  <img src="https://streak-stats.demolab.com?user=kunalpatil624&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpatil624&layout=compact&theme=radical" height="180em"/>
 </p>
-
 ---
 
 ### 📫 Connect with Me
